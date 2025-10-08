@@ -2,7 +2,7 @@
 # AgeBooth: Controllable Facial Aging and Rejuvenation via Diffusion Models
 
 Official implementation of [AgeBooth: Controllable Facial Aging and
- Rejuvenation via Diffusion Models](https://arxiv.org/pdf/2502.18461).
+ Rejuvenation via Diffusion Models](https://arxiv.org/pdf/2510.05715v1).
 
 ## 🎨 Examples
 
@@ -71,10 +71,13 @@ The outputs will be saved in the `outputs/` directory, organized by method and p
 If you find this AgeBooth useful for your research or applications, please cite using this BibTeX:
 
 ```BibTeX
-@inproceedings{,
-  title={},
-  author={},
-  booktitle={},
-  year={2025}
+@misc{zhu2025ageboothcontrollablefacialaging,
+      title={AgeBooth: Controllable Facial Aging and Rejuvenation via Diffusion Models}, 
+      author={Shihao Zhu and Bohan Cao and Ziheng Ouyang and Zhen Li and Peng-Tao Jiang and Qibin Hou},
+      year={2025},
+      eprint={2510.05715},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2510.05715}, 
 }
 ```
